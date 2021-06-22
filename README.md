@@ -7,7 +7,7 @@ A gym blog where gym junkies can meet, greet and share their insights and workou
 ## Deployment
 
 Gym Club has been deployed here:
-[Gym Club](https://gym-club-28324.herokuapp.com)
+[Gym Club](https://gym-club-group-project.herokuapp.com/)
 
 ## About
 
